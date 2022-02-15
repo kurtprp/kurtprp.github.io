@@ -1,0 +1,25 @@
+baseURL: "https://kurtprp.github.io/"
+languageCode: "en-us"
+title: ""
+theme: "PaperMod"
+params:
+  profileMode:
+    enabled: true
+    title: "Welcome" # optional default will be site title
+    subtitle: "The best way to reach out to me is sending a connection request on linkedin."
+    imageUrl: "https://avatars.githubusercontent.com/u/43769974?v=4" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    imageWidth: 80 # custom size
+    imageHeight: 80 # custom size
+    buttons:
+      - name: "pureple"
+        url: "https://pureple.com/"
+      - name: "castle attack"
+        url: "https://apps.apple.com/us/app/castle-attack-clash-of-castles/id626561525"
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/cagatayk/"
+    - name: "twitter"
+      url: "https://twitter.com/cagataykurt"
+    - name: "github"
+      url: "https://github.com/kurtprp/"
