@@ -1,3 +1,4 @@
 baseURL = "https://kurtprp.github.io/"
 languageCode = "en-us"
 title = "Cagatay Kurt"
+theme = "ananke"
