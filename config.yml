@@ -6,7 +6,7 @@ params:
   profileMode:
     enabled: true
     title: "Welcome" # optional default will be site title
-    subtitle: "The best way to reach out to me is sending a connection request on linkedin."
+    subtitle: "The best way to reach out to me is by sending a connection request on linkedin."
     imageUrl: "https://avatars.githubusercontent.com/u/43769974?v=4" # optional
     #imageTitle: "<title of image as alt>" # optional
     imageWidth: 80 # custom size
@@ -16,7 +16,7 @@ params:
         url: "https://pureple.com/"
       - name: "castle attack"
         url: "https://apps.apple.com/us/app/castle-attack-clash-of-castles/id626561525"
-      - name: "my book"
+      - name: "my book (amazon)"
         url: "https://www.amazon.com/dp/B0C848FV2Z"
   socialIcons:
     - name: "linkedin"
