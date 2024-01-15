@@ -16,6 +16,8 @@ params:
         url: "https://pureple.com/"
       - name: "castle attack"
         url: "https://apps.apple.com/us/app/castle-attack-clash-of-castles/id626561525"
+      - name: "my book"
+        url: "https://www.amazon.com/dp/B0C848FV2Z"
   socialIcons:
     - name: "linkedin"
       url: "https://www.linkedin.com/in/cagatayk/"
